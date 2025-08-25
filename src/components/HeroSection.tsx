@@ -21,7 +21,7 @@ const HeroSection = () => {
         </div>
         
         <h1 className="text-4xl md:text-6xl font-bold text-[#00DEFF] mb-6 leading-tight font-['Poppins']">
-          Découvre le Business Model en ligne idéal pour générer tes premiers revenus sur internet en 2025
+          Découvre le Business Model en ligne idéal pour <span className="text-white">générer tes premiers revenus</span> sur internet en 2025
         </h1>
         
         <p className="text-xl md:text-2xl text-white mb-8 font-['Open_Sans'] leading-relaxed">
