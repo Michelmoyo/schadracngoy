@@ -10,7 +10,7 @@ const HeroSection = () => {
   };
 
   return (
-    <section className="bg-[#1B2137] min-h-screen flex items-center justify-center px-4 py-20">
+    <section className="bg-[#1B2137] min-h-screen flex items-center justify-center px-4 py-12 md:py-20">
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
           <img 

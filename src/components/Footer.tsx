@@ -3,7 +3,7 @@ import { MessageCircle, Globe, Mail, Shield } from 'lucide-react';
 
 const Footer = () => {
   return (
-    <footer className="bg-[#1B2137] py-12 px-4 border-t border-[#252B47]">
+    <footer className="bg-[#1B2137] py-8 md:py-12 px-4 border-t border-[#252B47]">
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-8">
           <h3 className="text-2xl font-bold text-[#00DEFF] mb-4 font-['Poppins']">

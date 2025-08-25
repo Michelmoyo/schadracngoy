@@ -3,7 +3,7 @@ import { MapPin, TrendingUp, Award } from 'lucide-react';
 
 const Speaker = () => {
   return (
-    <section className="bg-[#1B2137] py-20 px-4">
+    <section className="bg-[#1B2137] py-12 md:py-20 px-4">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl md:text-5xl font-bold text-[#00DEFF] text-center mb-12 font-['Poppins']">
           Qui est Schadrac Ngoy ?
