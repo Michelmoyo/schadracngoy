@@ -14,7 +14,7 @@ const HeroSection = () => {
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
           <img 
-            src="/public/Schadrac-ngoy1.png" 
+            src="/Schadrac-ngoy1.png" 
             alt="Schadrac Ngoy" 
             className="w-32 h-32 rounded-full mx-auto mb-6 border-4 border-[#00DEFF] shadow-lg"
           />

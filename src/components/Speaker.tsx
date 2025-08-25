@@ -12,7 +12,7 @@ const Speaker = () => {
         <div className="grid md:grid-cols-2 gap-12 items-center">
           <div className="text-center md:text-left">
             <img 
-              src="/public/Schadrac-ngoy1.png" 
+              src="/Schadrac-ngoy1.png" 
               alt="Schadrac Ngoy" 
               className="w-80 h-80 rounded-2xl mx-auto md:mx-0 mb-6 border-4 border-[#00DEFF] shadow-2xl object-cover"
             />
