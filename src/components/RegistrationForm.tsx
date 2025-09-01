@@ -93,7 +93,7 @@ const RegistrationForm = () => {
             <div className="flex items-center justify-center gap-6 mb-4 text-white">
               <div className="flex items-center gap-2">
                 <Calendar className="w-5 h-5 text-[#00DEFF]" />
-                <span>Samedi 30 août</span>
+                <span>Dimanche 7 septembre</span>
               </div>
               <div className="flex items-center gap-2">
                 <Clock className="w-5 h-5 text-[#00DEFF]" />
@@ -167,7 +167,7 @@ const RegistrationForm = () => {
           </form>
           
           <p className="text-center text-white mt-6 font-['Open_Sans']">
-            <span className="text-[#00DEFF] font-semibold">Places limitées</span> – Webinaire le samedi 30 août à 20h00
+            <span className="text-[#00DEFF] font-semibold">Places limitées</span> – Webinaire le dimanche 7 septembre à 20h00
           </p>
         </div>
       </div>

@@ -31,7 +31,7 @@ const HeroSection = () => {
         <div className="flex flex-col md:flex-row items-center justify-center gap-6 mb-10 text-white">
           <div className="flex items-center gap-2">
             <Calendar className="w-6 h-6 text-[#00DEFF]" />
-            <span className="text-lg">Samedi 30 août</span>
+            <span className="text-lg">Dimanche 7 septembre</span>
           </div>
           <div className="flex items-center gap-2">
             <Clock className="w-6 h-6 text-[#00DEFF]" />
